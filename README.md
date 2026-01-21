@@ -35,3 +35,12 @@ Desarrollado con ❤️ para optimizar las compras familiares.
 ## 📄 Licencia
 
 Privado - Todos los derechos reservados.
+
+## 🛠️ Tecnologías
+
+- Python 3.14
+- FastAPI
+- React Native
+- PostgreSQL
+
+
